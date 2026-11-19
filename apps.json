@@ -1,20 +1,7 @@
 {
-  "name": "apps.json",
-  "path": "apps.json",
-  "sha": "775766500eb1c6b3a0e9862b59979d74cbb6c6b4",
-  "size": 167,
-  "url": "https://api.github.com/repos/alexuvebe/Alex-Store/contents/apps.json?ref=main",
-  "html_url": "https://github.com/alexuvebe/Alex-Store/blob/main/apps.json",
-  "git_url": "https://api.github.com/repos/alexuvebe/Alex-Store/git/blobs/775766500eb1c6b3a0e9862b59979d74cbb6c6b4",
-  "download_url": "https://raw.githubusercontent.com/alexuvebe/Alex-Store/main/apps.json",
-  "type": "file",
-  "content": "ewogICJuYW1lIjogIkFsZXggU3RvcmUiLAogICJpZGVudGlmaWVyIjogImNv\nbS5hbGV4dXZlYmUuc3RvcmUiLAogICJzb3VyY2VVUkwiOiAiaHR0cHM6Ly9y\nYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FsZXh1dmViZS9BbGV4LVN0b3Jl\nL21haW4vYXBwcy5qc29uIiwKICAiYXBwcyI6IFtdCn0=\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/alexuvebe/Alex-Store/contents/apps.json?ref=main",
-    "git": "https://api.github.com/repos/alexuvebe/Alex-Store/git/blobs/775766500eb1c6b3a0e9862b59979d74cbb6c6b4",
-    "html": "https://github.com/alexuvebe/Alex-Store/blob/main/apps.json"
-  },
+  "name": "Alex Store",
+  "identifier": "com.alexuvebe.store",
+  "sourceURL": "https://raw.githubusercontent.com/alexuvebe/Alex-Store/main/apps.json",
   "apps": [
     {
       "name": "Alex_UveBe",
